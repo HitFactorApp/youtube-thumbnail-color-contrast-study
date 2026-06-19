@@ -95,11 +95,13 @@ on a given video.
 
 ## Robustness
 
-The headline held under the pre-registered checks. Splitting by length, the small contrast effect
-lives in **longer videos (+1.8%, 95% CI +0.3% to +3.3%)** and disappears on short ones (−0.6%,
-interval spanning zero); colorfulness is a null on both partitions. The within-publish-year
-re-estimate (finding 6) and the no-sweet-spot shape guard (finding 5) both held, and the two
-estimators (pooled and per-channel median) agree throughout.
+The headline held under the pre-registered checks. Splitting by video duration leaves both
+predictors near zero on both partitions (long: contrast +1.8% [+0.3, +3.3], colorfulness null;
+short: contrast −0.6% with the interval spanning zero, colorfulness null). The two sides differ by
+about two trivial points on opposite sides of zero — well within sampling noise, and not evidence
+of a real duration interaction; we report it only as a passed robustness check, not a finding. The
+within-publish-year re-estimate (finding 6) and the no-sweet-spot shape guard (finding 5) both
+held, and the two estimators (pooled and per-channel median) agree throughout.
 
 ## How to read the size of these numbers
 
