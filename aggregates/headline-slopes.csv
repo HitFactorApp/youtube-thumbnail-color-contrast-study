@@ -1,0 +1,7 @@
+set,predictor,pooled_pct_per_sd,pooled_ci_lo,pooled_ci_hi,median_pct_per_sd,median_ci_lo,median_ci_hi,reported_point,reported_lo,reported_hi,estimators_agree,verdict,n_channels,n_videos
+holdout_confirmatory,colorfulness,1.238,-0.387,2.88,1.192,0.133,2.235,1.238,-0.387,2.88,True,PRECISE NULL (interval includes 0 but lies entirely within |10%|; any effect bounded under the practical bar),3174,302915
+exploration,colorfulness,2.03,1.214,2.863,0.658,-0.027,1.195,0.658,-0.027,1.195,False,PRECISE NULL (interval includes 0 but lies entirely within |10%|; any effect bounded under the practical bar),12539,1175113
+whole_cohort_descriptive,colorfulness,1.865,1.129,2.619,0.759,0.241,1.246,0.759,0.241,1.246,False,"PRESENT BUT TRIVIAL (real, under |10%| per +1 SD)",15713,1478028
+holdout_confirmatory,contrast,1.889,0.518,3.286,1.278,0.117,2.214,1.889,0.518,3.286,True,"PRESENT BUT TRIVIAL (real, under |10%| per +1 SD)",3192,300201
+exploration,contrast,1.689,0.975,2.398,0.831,0.292,1.366,0.831,0.292,1.366,False,"PRESENT BUT TRIVIAL (real, under |10%| per +1 SD)",12539,1161075
+whole_cohort_descriptive,contrast,1.73,1.081,2.366,0.875,0.43,1.38,1.73,1.081,2.366,True,"PRESENT BUT TRIVIAL (real, under |10%| per +1 SD)",15731,1461276

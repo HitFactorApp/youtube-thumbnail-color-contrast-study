@@ -1,0 +1,5 @@
+partition,predictor,reported_point_pct_per_sd,ci_lo,ci_hi,n_channels,n_videos
+short_le180s,colorfulness,-0.246,-2.798,2.293,1073,59169
+long_gt180s,colorfulness,0.474,-1.298,2.225,3043,239767
+short_le180s,contrast,-0.583,-2.457,1.299,1089,60507
+long_gt180s,contrast,1.765,0.258,3.323,3066,236666
